@@ -2,7 +2,7 @@
 
 ![](/static/banner_sample.png)
 
-This is a example web service for [AWS App Runner](https://aws.amazon.com/apprunner/).
+[//]: # (This is a example web service for [AWS App Runner]&#40;https://aws.amazon.com/apprunner/&#41;.)
 You can use this repo to automatically build and deploy or use pre-built images at [ECR Public](https://gallery.ecr.aws/aws-containers/hello-app-runner).
 
 You can read about AWS App Runner in the [launch blog](https://aws.amazon.com/blogs/containers/introducing-aws-app-runner/)
